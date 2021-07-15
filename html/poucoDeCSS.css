@@ -1,0 +1,15 @@
+.negrito {
+    font-weight: bold;
+}
+
+#textoPrincipal {
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    padding: 10px;
+    background-color: #444;
+}
+
+[wb-atrib] {
+    font-size: 40px;
+}
